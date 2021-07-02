@@ -1,0 +1,3319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Playlist</title>
+	<trackList>
+		<track>
+			<location>udp://@225.1.1.2:30120</location>
+			<title>0. TRUYỀN HÌNH FPT</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.249:30120</location>
+			<title>1. VTV1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.13:30120</location>
+			<title>2. VTV2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.247:30120</location>
+			<title>3. VTV3 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.20:30120</location>
+			<title>4. VTV4 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>4</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.131:30120</location>
+			<title>5. VTV5 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>5</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.245:30120</location>
+			<title>6. VTV6 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>6</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.96:30120</location>
+			<title>7. VTV7 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>7</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.166:30120</location>
+			<title>8. VTV8 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>8</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.128:30120</location>
+			<title>9. VTV9 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>9</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.254:30120</location>
+			<title>10. VTC1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>10</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.202:30120</location>
+			<title>11. VTC2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>11</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.251:30120</location>
+			<title>12. VTC3 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>12</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.200:30120</location>
+			<title>13. VTC4 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>13</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.199:30120</location>
+			<title>14. VTC5 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Videos/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>14</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.198:30120</location>
+			<title>15. VTC6 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>15</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.197:30120</location>
+			<title>16. VTC7 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Videos/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>16</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.196:30120</location>
+			<title>17. VTC8 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Music/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>17</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.195:30120</location>
+			<title>18. VTC9 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>18</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.194:30120</location>
+			<title>19. VTC10 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Music/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>19</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.193:30120</location>
+			<title>20. VTC11 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Music/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>20</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.192:30120</location>
+			<title>21. VTC12 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>21</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.250:30120</location>
+			<title>22. VTC13 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>22</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.88:30120</location>
+			<title>23. VTC14 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>23</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.190:30120</location>
+			<title>24. VTC16 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Music/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>24</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.192:30120</location>
+			<title>25. HTV7 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>25</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.193:30120</location>
+			<title>26. HTV2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>26</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.190:30120</location>
+			<title>27. HTV9 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>27</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.122:30120</location>
+			<title>28. VTV HYUNDAI SHOPPING</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>28</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.155:30120</location>
+			<title>29. THVL 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>29</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.186:30120</location>
+			<title>30. HANOITV 1</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>30</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.172:30120</location>
+			<title>31. VGS SHOP HTVC</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>31</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.239:30120</location>
+			<title>32. Fox Movies HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>32</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.233:30120</location>
+			<title>33. HBO HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>33</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.86:30120</location>
+			<title>34. CINEMAX</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>34</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.91:30120</location>
+			<title>35. NHÂN DÂN TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>35</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.148:30120</location>
+			<title>36. QUỐC HỘI HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>36</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.231:30120</location>
+			<title>37. CARTOON NETWORK HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>37</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.158:30120</location>
+			<title>38. DISNEP CHANEL HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>38</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.215:30120</location>
+			<title>39. OUTDOOR CHANNEL HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>39</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.188:30120</location>
+			<title>40. CHANLEN V HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>40</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.237:30120</location>
+			<title>41. FOX LIFE HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>41</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.232:30120</location>
+			<title>42. PARIS FASHION WEEK</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>42</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.180:30120</location>
+			<title>43. HTV1 SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>43</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.123:30120</location>
+			<title>44. The Mira Hotel</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>44</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.26:30120</location>
+			<title>45. FPT MỞ KÉT</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>45</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.171:30120</location>
+			<title>46. VOV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>46</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.43:30120</location>
+			<title>47. VOV NEW HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>47</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.169:30120</location>
+			<title>48. AN NINH TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>48</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.217:30120</location>
+			<title>49. QUỐC PHÒNG VIỆT NAM HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>49</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.178:30120</location>
+			<title>50. HTV3 SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>50</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.177:30120</location>
+			<title>51. HTV CHÌA KHÓA SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>51</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.165:30120</location>
+			<title>52. HTV THỂ THAO SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>52</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.166:30120</location>
+			<title>53. HTVC DU LỊCH &amp; CUỘC SỐNG SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>53</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.182:30120</location>
+			<title>54. HTVC FBNC HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>54</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.170:30120</location>
+			<title>55. HTVC GIA ĐÌNH SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>55</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.184:30120</location>
+			<title>56. Paramount Channel HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>56</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.171:30120</location>
+			<title>57. HTVC PHỤ NỮ</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>57</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.174:30120</location>
+			<title>58. HTVC THUẦN VIỆT SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>58</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.186:30120</location>
+			<title>59. HTVC THUẦN VIỆT HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>59</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.189:30120</location>
+			<title>60. BTV9 SD AN VIÊN</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Music/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>60</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.223:30120</location>
+			<title>61. BTV6 VIỆT TEEN SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>61</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.225:30120</location>
+			<title>62. BTV10 HD NCM</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>62</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.224:30120</location>
+			<title>63. BTV11 SD SAM</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Videos/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>63</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.186:30120</location>
+			<title>64. HÀ NỘI 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>64</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.125:30120</location>
+			<title>65. HÀ NỘI 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>65</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.207:30120</location>
+			<title>66. HÀ NỘI CAB2 SD YOU!TV</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>66</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8</location>
+			<title>67. Asian Food Channel HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<duration>36000</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>67</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.194:30120</location>
+			<title>68. Việt Nam Nét SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>68</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.173:30120</location>
+			<title>69. An Giang HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>69</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.175:30120</location>
+			<title>70. BRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>70</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.61:30120</location>
+			<title>71. BTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>71</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.164:30120</location>
+			<title>72. BG.TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>72</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.40:30120</location>
+			<title>73. BTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>73</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.156:30120</location>
+			<title>74. THBT SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>74</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.150:30120</location>
+			<title>75. BTV1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>75</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.149:30120</location>
+			<title>76. BTV 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>76</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.30:30120</location>
+			<title>73. BTV4 HD iMOVIE TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Music/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>77</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.145:30120</location>
+			<title>74. BTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>78</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.23:30120</location>
+			<title>75. BPTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>79</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.38:30120</location>
+			<title>76. BPTV 2 SD HOMETV</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///C:/Users/0907130289/Music/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>80</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.124:30120</location>
+			<title>77. BTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>81</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.104:30120</location>
+			<title>78. CTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>82</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.102:30120</location>
+			<title>79. CRTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>83</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.132:30120</location>
+			<title>80. THTPCT SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>84</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.147:30120</location>
+			<title>81. ĐÀ NẴNGTV 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>85</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.146:30120</location>
+			<title>82. ĐÀ NẴNG TV 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>86</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.64:30120</location>
+			<title>83. ĐẮT LẮC DRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>87</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.74:30120</location>
+			<title>84. ĐIỆN BIÊN ĐTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>88</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.152:30120</location>
+			<title>85. ĐỒNG NAI ĐNRTV 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>89</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.151:30120</location>
+			<title>86. ĐỒNG NAI ĐNRTV 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>90</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.163:30120</location>
+			<title>87. ĐỒNG THÁP THĐT 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>91</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.176:30120</location>
+			<title>88. GIA LAI THGL SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>92</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.62:30120</location>
+			<title>89. HÀ GIANG TV HGTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>93</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.63:30120</location>
+			<title>90. HÀ NAM THHN SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>94</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.75:30120</location>
+			<title>91. HÀ TĨNH HTTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>95</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.158:30120</location>
+			<title>92. HẢI DƯƠNG THD SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>96</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.44:30120</location>
+			<title>93. HẢI PHÒNG THP HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>97</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.157:30120</location>
+			<title>94. HẬU GIANG HCTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>98</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.168:30120</location>
+			<title>95. HÒA BÌNH HBTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>99</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.118:30120</location>
+			<title>96. HƯNG YÊN HY SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>100</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.133:30120</location>
+			<title>97. KHÁNH HÒA KTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>101</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.182:30120</location>
+			<title>98. KIÊN GIANG 1 PTTH SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>102</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.36:30120</location>
+			<title>99. KOM TUM KRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>103</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.160:30120</location>
+			<title>100. LẠNG SƠN LSTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>104</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.119:30120</location>
+			<title>101. LÀO CAI THLC HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>105</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.177:30120</location>
+			<title>102. LÂM ĐỒNG LTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>106</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.162:30120</location>
+			<title>103. LONG AN LA34 SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>107</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.120:30120</location>
+			<title>104. NAM ĐỊNH NTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>108</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.183:30120</location>
+			<title>105. NGHỆ AN NTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>109</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.185:30120</location>
+			<title>106. NINH BÌNH TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>110</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.178:30120</location>
+			<title>109. NINH THUẬN NTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>111</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.165:30120</location>
+			<title>110. PHÚ THỌ PTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>112</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.58:30120</location>
+			<title>111. PHÚ YÊN PTP HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>113</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.164:30120</location>
+			<title>112. QUẢNG BÌNH QBTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>114</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.50:30120</location>
+			<title>113. QUẢNG NAM QRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>115</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.174:30120</location>
+			<title>114. QUẢNG NGÃI PTQ SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>116</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.181:30120</location>
+			<title>114. QUẢNG NINH 1 QTV1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>117</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.180:30120</location>
+			<title>115. QUẢNG NINH 3 QTV3 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>118</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.117:30120</location>
+			<title>116. QUẢNG TRỊ QRTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>119</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.159:30120</location>
+			<title>117. SÓC TRĂNG 1 STV1 SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>120</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.98:30120</location>
+			<title>118. SƠN LA STV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>121</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.130:30120</location>
+			<title>119. TÂY NINH 11 TTV11 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>122</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.99:30120</location>
+			<title>120. THÁI BÌNH TBTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>123</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.179:30120</location>
+			<title>121. THÁI NGUYÊN 1 HD TN1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>124</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.184:30120</location>
+			<title>122. THANH HÓA TTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>125</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.161:30120</location>
+			<title>123. THỪA THIÊN HUẾ TRT SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>126</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.170:30120</location>
+			<title>124. TIỀN GIANG THTG HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>127</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.172:30120</location>
+			<title>125. TRÀ VINH THTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>128</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.188:30120</location>
+			<title>126. TUYÊN QUANG TTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>129</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.155:30120</location>
+			<title>127. VĨNH LONG THVL 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>130</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.154:30120</location>
+			<title>128. VĨNH LONG THVL 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>131</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.99:30120</location>
+			<title>129. VĨNH PHÚC VP SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>132</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.39:30120</location>
+			<title>130. YÊN BÁI YTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>133</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.245:30120</location>
+			<title>131. MTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>134</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.231:30120</location>
+			<title>132. Animal Planet HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>135</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.201:30120</location>
+			<title>133. Arirang SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>136</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.198:30120</location>
+			<title>134. ASIAN FOOD CHANNEL HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>137</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.21:30120</location>
+			<title>135. Australia Plus HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>138</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.225:30120</location>
+			<title>136. AXN HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>139</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.24:30120</location>
+			<title>137. BBC Earth HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>140</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.52:30120</location>
+			<title>138. BBC Lifestyle SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>141</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.74:30120</location>
+			<title>139. BBC World News SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>142</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.146:30120</location>
+			<title>140. BABY TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>143</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.231:30120</location>
+			<title>141. Cartoon Network HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>144</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.202:30120</location>
+			<title>142. Channel News Asia HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>145</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.188:30120</location>
+			<title>143. Channel [V] SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>146</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.142:30120</location>
+			<title>144. Cinema World HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>147</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.227:30120</location>
+			<title>145. CNBC SD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>148</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.242:30120</location>
+			<title>146. CNN HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>149</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.197:30120</location>
+			<title>147. Da Vinci Learning HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>150</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.223:30120</location>
+			<title>148. Discovery Asia HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>151</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.238:30120</location>
+			<title>149. Discovery Channel HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>152</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.158:30120</location>
+			<title>150. Disney Channel HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>153</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.233:30120</location>
+			<title>151. Disney Junior HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>154</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.46:30120</location>
+			<title>152. DW HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>155</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.227:30120</location>
+			<title>153. Fashion TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>156</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.51:30120</location>
+			<title>154. FOX HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>157</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.229:30120</location>
+			<title>155. Fox Sports HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>158</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.141:30120</location>
+			<title>156. Fox Sports 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>159</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.242:30120</location>
+			<title>157. Fox Sports 3 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>160</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.237:30120</location>
+			<title>158. Fox Life HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>161</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.211:30120</location>
+			<title>159. France 24 HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>162</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.144:30120</location>
+			<title>160. KIX HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>163</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.86:30120</location>
+			<title>161. CINEMAX</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>164</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.235:30120</location>
+			<title>162. National Geographic HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>165</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.47:30120</location>
+			<title>163. NHK World HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>166</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.215:30120</location>
+			<title>164. Outdoor Channel HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>167</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.93:30120</location>
+			<title>165. RED by HBO HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.jpg</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>168</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.236:30120</location>
+			<title>166. TLC HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>169</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.200:30120</location>
+			<title>167. TV5Monde Asia HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>170</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.139:30120</location>
+			<title>168. Warner Bros TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<image>file:///D:/LOGO THIẾT KẾ/LOGO THIET KE/Card Visit copy1.png</image>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>171</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.171:30120</location>
+			<title>169. VOV Vietnam Journey SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>172</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.148:30120</location>
+			<title>170. QUOC HOI HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>173</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.91:30120</location>
+			<title>171. NHAN DAN HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>174</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.217:30120</location>
+			<title>172. QPVN HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>175</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.169:30120</location>
+			<title>173. ANTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>176</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.43:30120</location>
+			<title>174. TTXVN HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>177</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.194:30120</location>
+			<title>175. VIETNAMNET SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>178</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.189:30120</location>
+			<title>176. BTV 9 HD THỬ NGHIỆM</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>179</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.225:30120</location>
+			<title>177. BTV10 NCM HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>180</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.224:30120</location>
+			<title>178. BTV 11 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>181</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.223:30120</location>
+			<title>179. BTV 6 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>182</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.125:30120</location>
+			<title>180. HA NOI 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>183</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.207:30120</location>
+			<title>181. HANOI CAB 2 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>184</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.180:30120</location>
+			<title>182. HTV1 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>185</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.193:30120</location>
+			<title>183. HTV2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>186</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.178:30120</location>
+			<title>185. HTV3 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>187</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.177:30120</location>
+			<title>186. HTV4 KEY</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>188</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.192:30120</location>
+			<title>187. HTV7 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>189</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.190:30120</location>
+			<title>188. HTV9 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>190</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.165:30120</location>
+			<title>189. HTV THE THAO SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>191</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.174:30120</location>
+			<title>190. HTVC THUẦN VIỆT SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>192</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.186:30120</location>
+			<title>191. HTVC THUẦN VIỆT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>193</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.171:30120</location>
+			<title>192. HTVC PHỤ NỮ SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>194</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.166:30120</location>
+			<title>193. DU LỊCH &amp; CUỘC SỐNG HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>195</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.182:30120</location>
+			<title>194.  FBNC HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>196</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.170:30120</location>
+			<title>195. HTVC GIA ĐÌNH SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>197</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.210:30120</location>
+			<title>196. HTV CO.OP SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>198</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.172:30120</location>
+			<title>197. HTVC VGS SHOP SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>199</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.167:30120</location>
+			<title>198. VGS SHOP SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>200</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.122:30120</location>
+			<title>199. VTVCAB13 SHOPPING SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>201</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.2:30120</location>
+			<title>200. FPT GIỚI THIỆU CHƯƠNG TRÌNH HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>202</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.97:30120</location>
+			<title>201. FPT MỞ KÉT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>203</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.229:30120</location>
+			<title>202. FOX SPORTS  HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>204</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.141:30120</location>
+			<title>203. FOX SPORTS 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>205</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.242:30120</location>
+			<title>204. FOX SPORTS 3 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>206</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.146:30120</location>
+			<title>205. BABYTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>207</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.233:30120</location>
+			<title>206. DISNEY JUHIOR HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>208</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.158:30120</location>
+			<title>207. DISNEY CHANNEL HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>209</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.238:30120</location>
+			<title>208. DISCOVERY CHANNEL HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>210</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.231:30120</location>
+			<title>209. ANIMAL PLANET HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>211</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.223:30120</location>
+			<title>210. DISCOVERY ASIA HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>212</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.215:30120</location>
+			<title>211. OUTDOOR HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>213</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.235:30120</location>
+			<title>212.  NATIONAL GEOGRAPHIC HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>214</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.197:30120</location>
+			<title>213. DA VINCI HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>215</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.24:30120</location>
+			<title>214. BBC Earth HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>216</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.52:30120</location>
+			<title>215. BBC Lifestyle SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>217</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.74:30120</location>
+			<title>216. BBC WORLD NEWS SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>218</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.203:30120</location>
+			<title>217. BLUE ANT ENTERTAINMENT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>219</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.204:30120</location>
+			<title>218. BLUE ANT EXTREME HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>220</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.233:30120</location>
+			<title>219. HBO HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>221</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.93:30120</location>
+			<title>220. RED BY HBO HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>222</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.239:30120</location>
+			<title>221. FOX MOVIES HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>223</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.86:30120</location>
+			<title>222. MAX BY HBO HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>224</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.142:30120</location>
+			<title>223. CINEMA WORLD HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>225</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.21:30120</location>
+			<title>224. Australia Plus HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>226</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.51:30120</location>
+			<title>225. FOX HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>227</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.2:30120</location>
+			<title>226. Gem S HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>228</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.225:30120</location>
+			<title>227. AXN HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>229</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.47:30120</location>
+			<title>228. NHK HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>230</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.46:30120</location>
+			<title>229. DW HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>231</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.227:30120</location>
+			<title>230. CNBC TOP NEW SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>232</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.200:30120</location>
+			<title>231. TV5 MONDE SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>233</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.201:30120</location>
+			<title>232. ARRIANG SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>234</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.196:30120</location>
+			<title>233. KBS WORLD SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>235</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.202:30120</location>
+			<title>234. CHANNEL NEWS ASIA SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>236</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.236:30120</location>
+			<title>235. TLC HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>237</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.242:30120</location>
+			<title>236. CNN SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>238</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.144:30120</location>
+			<title>237. KIX HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>239</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.139:30120</location>
+			<title>238. WB TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>240</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.211:30120</location>
+			<title>239. FRANCE 24 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>241</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.127:30120</location>
+			<title>240. Dolife Hospital HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>242</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.227:30120</location>
+			<title>241. FASHIONTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>243</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.245:30120</location>
+			<title>242. MTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>244</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.188:30120</location>
+			<title>243. V HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>245</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.123:30120</location>
+			<title>244. The Mira Hotel HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>246</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.121:30120</location>
+			<title>245. The Ocean Resort HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>247</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.102:30120</location>
+			<title>250. CAO BANG CRTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>248</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.62:30120</location>
+			<title>251. HÀ GIANG HGTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>249</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.119:30120</location>
+			<title>252. LÀO CAI THLC HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>250</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.98:30120</location>
+			<title>253. SƠN LA STV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>251</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.74:30120</location>
+			<title>254. ĐIỆN BIÊN ĐTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>252</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.39:30120</location>
+			<title>255. YÊN BÁI YTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>253</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.188:30120</location>
+			<title>256. TUYÊN QUANG TTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>254</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.165:30120</location>
+			<title>257. PHÚ THỌ PTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>255</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.99:30120</location>
+			<title>258. VĨNH PHÚC VP SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>256</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.179:30120</location>
+			<title>259. THÁI NGUYÊN TN 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>257</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.40:30120</location>
+			<title>260. BẮC NINH BTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>258</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.164:30120</location>
+			<title>261. BẮC GIANG BG.TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>259</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.160:30120</location>
+			<title>262. LẠNG SƠN LSTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>260</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.181:30120</location>
+			<title>263. QUẢNG NINH QNTV 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>261</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.180:30120</location>
+			<title>264. QUANG NINH 3 QNTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>262</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.44:30120</location>
+			<title>265. HẢI PHÒNG THP HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>263</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.158:30120</location>
+			<title>266. HẢI DƯƠNG THHD SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>264</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.118:30120</location>
+			<title>267. HƯNG YÊN HY SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>265</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.63:30120</location>
+			<title>268. HÀ NAM THHN SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>266</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.120:30120</location>
+			<title>269. NAM ĐỊNH NTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>267</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.99:30120</location>
+			<title>270. THÁI BÌNH TBTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>268</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.168:30120</location>
+			<title>271. HÒA BÌNH HBTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>269</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.185:30120</location>
+			<title>272. NINH BÌNH NBTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>270</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.184:30120</location>
+			<title>273. THANH HÓA TTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>271</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.183:30120</location>
+			<title>274. NGHỆ AN NTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>272</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.75:30120</location>
+			<title>275. HÀ TĨNH HTTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>273</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.164:30120</location>
+			<title>276. QUẢNG BÌNH QBTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>274</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.117:30120</location>
+			<title>277. QUẢNG TRỊ QRTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>275</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.161:30120</location>
+			<title>278. THỪA THIÊN HUẾ TRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>276</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.152:30120</location>
+			<title>279. DN1 RTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>277</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.151:30120</location>
+			<title>280. DN2 RTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>278</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.147:30120</location>
+			<title>281. ĐÀ NẴNG TV 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>279</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.146:30120</location>
+			<title>282. ĐÀ NẴNG TV 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>280</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.50:30120</location>
+			<title>283. QUẢNG NAM QRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>281</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.64:30120</location>
+			<title>284. ĐẮC LẮC DRT SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>282</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.176:30120</location>
+			<title>285. GIA LAI THGL TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>283</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.36:30120</location>
+			<title>286. KON TUM KRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>284</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.177:30120</location>
+			<title>287. LÂM ĐỒNG LTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>285</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.124:30120</location>
+			<title>288. BÌNH THUẬN BTV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>286</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.178:30120</location>
+			<title>289. NINH THUẬN NTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>287</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.174:30120</location>
+			<title>290. QUẢNG NGÃI HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>288</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.58:30120</location>
+			<title>291. PHÚ YÊN PTQ HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>289</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.145:30120</location>
+			<title>292. BÌNH ĐỊNH BTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>290</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.133:30120</location>
+			<title>293. KHÁNH HÒA KTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>291</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.23:30120</location>
+			<title>294. BÌNH PHƯỚC BPTV 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>292</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.38:30120</location>
+			<title>295. HomeTV  BPTV 2 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>293</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.150:30120</location>
+			<title>296. BÌNH DƯƠNG BTV1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>294</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.149:30120</location>
+			<title>297. BÌNH DƯƠNG BTV2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>295</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.30:30120</location>
+			<title>298. BÌNH DƯƠNG BTV4 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>296</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.152:30120</location>
+			<title>299. ĐỒNG NAI ĐN1 RTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>297</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.151:30120</location>
+			<title>300. ĐỒNG NAI ĐN2 RTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>298</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.175:30120</location>
+			<title>301. VŨNG TÀU BRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>299</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.130:30120</location>
+			<title>302. TÂY NINH TTV11 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>300</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.173:30120</location>
+			<title>303. AN GIANG ATV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>301</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.172:30120</location>
+			<title>304. TRÀ VINH THTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>302</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.154:30120</location>
+			<title>305. VĨNH LONG THTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>303</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.235:30120</location>
+			<title>306. VĨNH LONG 3 THVL3 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>304</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.157:30120</location>
+			<title>307. HẬU GIANG HGTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>305</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.170:30120</location>
+			<title>308. TIỀN GIANG THTG HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>306</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.132:30120</location>
+			<title>309. CẦN THƠ THTPCT SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>307</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.159:30120</location>
+			<title>310. SÓC TRĂNG STV1 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>308</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.61:30120</location>
+			<title>311. BẠC LIÊU BTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>309</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.162:30120</location>
+			<title>312. LONG AN 34 LA34 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>310</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.163:30120</location>
+			<title>313. ĐỒNG THÁP 1 THDDT1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>311</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.156:30120</location>
+			<title>314. BẾN TRE THBT SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>312</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.182:30120</location>
+			<title>315. KIÊN GIANG 1 KG1 PTTH HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>313</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.104:30120</location>
+			<title>316. CÀ MAU CTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>314</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.165:30120</location>
+			<title>317. HTV THỂ THAO SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>315</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.180:30120</location>
+			<title>318. HTV1 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>316</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.193:30120</location>
+			<title>319. HTV2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>317</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.178:30120</location>
+			<title>320. HTV3 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>318</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.177:30120</location>
+			<title>321. HTV CHÌA KHOÁ SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>319</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.192:30120</location>
+			<title>322. HTV7 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>320</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.190:30120</location>
+			<title>323. HTV9 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>321</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.155:30120</location>
+			<title>324. THVL 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>322</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.154:30120</location>
+			<title>325. THVL 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>323</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.186:30120</location>
+			<title>326. HÀ NỘI 1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>324</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.125:30120</location>
+			<title>327. HÀ NỘI 2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>325</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.231:30120</location>
+			<title>328. ANIMAL PLANET HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>326</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.169:30120</location>
+			<title>329. ANTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>327</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.173:30120</location>
+			<title>330. ATV SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>328</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.225:30120</location>
+			<title>331. AXN HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>329</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.164:30120</location>
+			<title>332. BG.TV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>330</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.38:30120</location>
+			<title>333. BPTV2 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>331</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.175:30120</location>
+			<title>334. BRT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>332</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.145:30120</location>
+			<title>335. BTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>333</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.124:30120</location>
+			<title>336. BTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>334</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.61:30120</location>
+			<title>337. BLTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>335</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.40:30120</location>
+			<title>338. BTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>336</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.150:30120</location>
+			<title>339. BTV1 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>337</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.225:30120</location>
+			<title>340. BTV10 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>338</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.224:30120</location>
+			<title>341. BTV11 SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>339</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.149:30120</location>
+			<title>342. BTV2 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>340</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.30:30120</location>
+			<title>343. BTV4 HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>341</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.132:30120</location>
+			<title>344. THTPCT HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>342</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.231:30120</location>
+			<title>345. CN CARTOON NETWORK HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>343</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.242:30120</location>
+			<title>346. CNN HOA KỲ SD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>344</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.104:30120</location>
+			<title>347. CTV HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>345</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.197:30120</location>
+			<title>348. DA VINCI LEARNING HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>346</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.1.238:30120</location>
+			<title>349. DISCOVERY HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>347</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>udp://@225.1.2.223:30120</location>
+			<title>350. Discovery World HD</title>
+			<creator>Call: 0907130289</creator>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>348</vlc:id>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+		<vlc:item tid="4"/>
+		<vlc:item tid="5"/>
+		<vlc:item tid="6"/>
+		<vlc:item tid="7"/>
+		<vlc:item tid="8"/>
+		<vlc:item tid="9"/>
+		<vlc:item tid="10"/>
+		<vlc:item tid="11"/>
+		<vlc:item tid="12"/>
+		<vlc:item tid="13"/>
+		<vlc:item tid="14"/>
+		<vlc:item tid="15"/>
+		<vlc:item tid="16"/>
+		<vlc:item tid="17"/>
+		<vlc:item tid="18"/>
+		<vlc:item tid="19"/>
+		<vlc:item tid="20"/>
+		<vlc:item tid="21"/>
+		<vlc:item tid="22"/>
+		<vlc:item tid="23"/>
+		<vlc:item tid="24"/>
+		<vlc:item tid="25"/>
+		<vlc:item tid="26"/>
+		<vlc:item tid="27"/>
+		<vlc:item tid="28"/>
+		<vlc:item tid="29"/>
+		<vlc:item tid="30"/>
+		<vlc:item tid="31"/>
+		<vlc:item tid="32"/>
+		<vlc:item tid="33"/>
+		<vlc:item tid="34"/>
+		<vlc:item tid="35"/>
+		<vlc:item tid="36"/>
+		<vlc:item tid="37"/>
+		<vlc:item tid="38"/>
+		<vlc:item tid="39"/>
+		<vlc:item tid="40"/>
+		<vlc:item tid="41"/>
+		<vlc:item tid="42"/>
+		<vlc:item tid="43"/>
+		<vlc:item tid="44"/>
+		<vlc:item tid="45"/>
+		<vlc:item tid="46"/>
+		<vlc:item tid="47"/>
+		<vlc:item tid="48"/>
+		<vlc:item tid="49"/>
+		<vlc:item tid="50"/>
+		<vlc:item tid="51"/>
+		<vlc:item tid="52"/>
+		<vlc:item tid="53"/>
+		<vlc:item tid="54"/>
+		<vlc:item tid="55"/>
+		<vlc:item tid="56"/>
+		<vlc:item tid="57"/>
+		<vlc:item tid="58"/>
+		<vlc:item tid="59"/>
+		<vlc:item tid="60"/>
+		<vlc:item tid="61"/>
+		<vlc:item tid="62"/>
+		<vlc:item tid="63"/>
+		<vlc:item tid="64"/>
+		<vlc:item tid="65"/>
+		<vlc:item tid="66"/>
+		<vlc:item tid="67"/>
+		<vlc:item tid="68"/>
+		<vlc:item tid="69"/>
+		<vlc:item tid="70"/>
+		<vlc:item tid="71"/>
+		<vlc:item tid="72"/>
+		<vlc:item tid="73"/>
+		<vlc:item tid="74"/>
+		<vlc:item tid="75"/>
+		<vlc:item tid="76"/>
+		<vlc:item tid="77"/>
+		<vlc:item tid="78"/>
+		<vlc:item tid="79"/>
+		<vlc:item tid="80"/>
+		<vlc:item tid="81"/>
+		<vlc:item tid="82"/>
+		<vlc:item tid="83"/>
+		<vlc:item tid="84"/>
+		<vlc:item tid="85"/>
+		<vlc:item tid="86"/>
+		<vlc:item tid="87"/>
+		<vlc:item tid="88"/>
+		<vlc:item tid="89"/>
+		<vlc:item tid="90"/>
+		<vlc:item tid="91"/>
+		<vlc:item tid="92"/>
+		<vlc:item tid="93"/>
+		<vlc:item tid="94"/>
+		<vlc:item tid="95"/>
+		<vlc:item tid="96"/>
+		<vlc:item tid="97"/>
+		<vlc:item tid="98"/>
+		<vlc:item tid="99"/>
+		<vlc:item tid="100"/>
+		<vlc:item tid="101"/>
+		<vlc:item tid="102"/>
+		<vlc:item tid="103"/>
+		<vlc:item tid="104"/>
+		<vlc:item tid="105"/>
+		<vlc:item tid="106"/>
+		<vlc:item tid="107"/>
+		<vlc:item tid="108"/>
+		<vlc:item tid="109"/>
+		<vlc:item tid="110"/>
+		<vlc:item tid="111"/>
+		<vlc:item tid="112"/>
+		<vlc:item tid="113"/>
+		<vlc:item tid="114"/>
+		<vlc:item tid="115"/>
+		<vlc:item tid="116"/>
+		<vlc:item tid="117"/>
+		<vlc:item tid="118"/>
+		<vlc:item tid="119"/>
+		<vlc:item tid="120"/>
+		<vlc:item tid="121"/>
+		<vlc:item tid="122"/>
+		<vlc:item tid="123"/>
+		<vlc:item tid="124"/>
+		<vlc:item tid="125"/>
+		<vlc:item tid="126"/>
+		<vlc:item tid="127"/>
+		<vlc:item tid="128"/>
+		<vlc:item tid="129"/>
+		<vlc:item tid="130"/>
+		<vlc:item tid="131"/>
+		<vlc:item tid="132"/>
+		<vlc:item tid="133"/>
+		<vlc:item tid="134"/>
+		<vlc:item tid="135"/>
+		<vlc:item tid="136"/>
+		<vlc:item tid="137"/>
+		<vlc:item tid="138"/>
+		<vlc:item tid="139"/>
+		<vlc:item tid="140"/>
+		<vlc:item tid="141"/>
+		<vlc:item tid="142"/>
+		<vlc:item tid="143"/>
+		<vlc:item tid="144"/>
+		<vlc:item tid="145"/>
+		<vlc:item tid="146"/>
+		<vlc:item tid="147"/>
+		<vlc:item tid="148"/>
+		<vlc:item tid="149"/>
+		<vlc:item tid="150"/>
+		<vlc:item tid="151"/>
+		<vlc:item tid="152"/>
+		<vlc:item tid="153"/>
+		<vlc:item tid="154"/>
+		<vlc:item tid="155"/>
+		<vlc:item tid="156"/>
+		<vlc:item tid="157"/>
+		<vlc:item tid="158"/>
+		<vlc:item tid="159"/>
+		<vlc:item tid="160"/>
+		<vlc:item tid="161"/>
+		<vlc:item tid="162"/>
+		<vlc:item tid="163"/>
+		<vlc:item tid="164"/>
+		<vlc:item tid="165"/>
+		<vlc:item tid="166"/>
+		<vlc:item tid="167"/>
+		<vlc:item tid="168"/>
+		<vlc:item tid="169"/>
+		<vlc:item tid="170"/>
+		<vlc:item tid="171"/>
+		<vlc:item tid="172"/>
+		<vlc:item tid="173"/>
+		<vlc:item tid="174"/>
+		<vlc:item tid="175"/>
+		<vlc:item tid="176"/>
+		<vlc:item tid="177"/>
+		<vlc:item tid="178"/>
+		<vlc:item tid="179"/>
+		<vlc:item tid="180"/>
+		<vlc:item tid="181"/>
+		<vlc:item tid="182"/>
+		<vlc:item tid="183"/>
+		<vlc:item tid="184"/>
+		<vlc:item tid="185"/>
+		<vlc:item tid="186"/>
+		<vlc:item tid="187"/>
+		<vlc:item tid="188"/>
+		<vlc:item tid="189"/>
+		<vlc:item tid="190"/>
+		<vlc:item tid="191"/>
+		<vlc:item tid="192"/>
+		<vlc:item tid="193"/>
+		<vlc:item tid="194"/>
+		<vlc:item tid="195"/>
+		<vlc:item tid="196"/>
+		<vlc:item tid="197"/>
+		<vlc:item tid="198"/>
+		<vlc:item tid="199"/>
+		<vlc:item tid="200"/>
+		<vlc:item tid="201"/>
+		<vlc:item tid="202"/>
+		<vlc:item tid="203"/>
+		<vlc:item tid="204"/>
+		<vlc:item tid="205"/>
+		<vlc:item tid="206"/>
+		<vlc:item tid="207"/>
+		<vlc:item tid="208"/>
+		<vlc:item tid="209"/>
+		<vlc:item tid="210"/>
+		<vlc:item tid="211"/>
+		<vlc:item tid="212"/>
+		<vlc:item tid="213"/>
+		<vlc:item tid="214"/>
+		<vlc:item tid="215"/>
+		<vlc:item tid="216"/>
+		<vlc:item tid="217"/>
+		<vlc:item tid="218"/>
+		<vlc:item tid="219"/>
+		<vlc:item tid="220"/>
+		<vlc:item tid="221"/>
+		<vlc:item tid="222"/>
+		<vlc:item tid="223"/>
+		<vlc:item tid="224"/>
+		<vlc:item tid="225"/>
+		<vlc:item tid="226"/>
+		<vlc:item tid="227"/>
+		<vlc:item tid="228"/>
+		<vlc:item tid="229"/>
+		<vlc:item tid="230"/>
+		<vlc:item tid="231"/>
+		<vlc:item tid="232"/>
+		<vlc:item tid="233"/>
+		<vlc:item tid="234"/>
+		<vlc:item tid="235"/>
+		<vlc:item tid="236"/>
+		<vlc:item tid="237"/>
+		<vlc:item tid="238"/>
+		<vlc:item tid="239"/>
+		<vlc:item tid="240"/>
+		<vlc:item tid="241"/>
+		<vlc:item tid="242"/>
+		<vlc:item tid="243"/>
+		<vlc:item tid="244"/>
+		<vlc:item tid="245"/>
+		<vlc:item tid="246"/>
+		<vlc:item tid="247"/>
+		<vlc:item tid="248"/>
+		<vlc:item tid="249"/>
+		<vlc:item tid="250"/>
+		<vlc:item tid="251"/>
+		<vlc:item tid="252"/>
+		<vlc:item tid="253"/>
+		<vlc:item tid="254"/>
+		<vlc:item tid="255"/>
+		<vlc:item tid="256"/>
+		<vlc:item tid="257"/>
+		<vlc:item tid="258"/>
+		<vlc:item tid="259"/>
+		<vlc:item tid="260"/>
+		<vlc:item tid="261"/>
+		<vlc:item tid="262"/>
+		<vlc:item tid="263"/>
+		<vlc:item tid="264"/>
+		<vlc:item tid="265"/>
+		<vlc:item tid="266"/>
+		<vlc:item tid="267"/>
+		<vlc:item tid="268"/>
+		<vlc:item tid="269"/>
+		<vlc:item tid="270"/>
+		<vlc:item tid="271"/>
+		<vlc:item tid="272"/>
+		<vlc:item tid="273"/>
+		<vlc:item tid="274"/>
+		<vlc:item tid="275"/>
+		<vlc:item tid="276"/>
+		<vlc:item tid="277"/>
+		<vlc:item tid="278"/>
+		<vlc:item tid="279"/>
+		<vlc:item tid="280"/>
+		<vlc:item tid="281"/>
+		<vlc:item tid="282"/>
+		<vlc:item tid="283"/>
+		<vlc:item tid="284"/>
+		<vlc:item tid="285"/>
+		<vlc:item tid="286"/>
+		<vlc:item tid="287"/>
+		<vlc:item tid="288"/>
+		<vlc:item tid="289"/>
+		<vlc:item tid="290"/>
+		<vlc:item tid="291"/>
+		<vlc:item tid="292"/>
+		<vlc:item tid="293"/>
+		<vlc:item tid="294"/>
+		<vlc:item tid="295"/>
+		<vlc:item tid="296"/>
+		<vlc:item tid="297"/>
+		<vlc:item tid="298"/>
+		<vlc:item tid="299"/>
+		<vlc:item tid="300"/>
+		<vlc:item tid="301"/>
+		<vlc:item tid="302"/>
+		<vlc:item tid="303"/>
+		<vlc:item tid="304"/>
+		<vlc:item tid="305"/>
+		<vlc:item tid="306"/>
+		<vlc:item tid="307"/>
+		<vlc:item tid="308"/>
+		<vlc:item tid="309"/>
+		<vlc:item tid="310"/>
+		<vlc:item tid="311"/>
+		<vlc:item tid="312"/>
+		<vlc:item tid="313"/>
+		<vlc:item tid="314"/>
+		<vlc:item tid="315"/>
+		<vlc:item tid="316"/>
+		<vlc:item tid="317"/>
+		<vlc:item tid="318"/>
+		<vlc:item tid="319"/>
+		<vlc:item tid="320"/>
+		<vlc:item tid="321"/>
+		<vlc:item tid="322"/>
+		<vlc:item tid="323"/>
+		<vlc:item tid="324"/>
+		<vlc:item tid="325"/>
+		<vlc:item tid="326"/>
+		<vlc:item tid="327"/>
+		<vlc:item tid="328"/>
+		<vlc:item tid="329"/>
+		<vlc:item tid="330"/>
+		<vlc:item tid="331"/>
+		<vlc:item tid="332"/>
+		<vlc:item tid="333"/>
+		<vlc:item tid="334"/>
+		<vlc:item tid="335"/>
+		<vlc:item tid="336"/>
+		<vlc:item tid="337"/>
+		<vlc:item tid="338"/>
+		<vlc:item tid="339"/>
+		<vlc:item tid="340"/>
+		<vlc:item tid="341"/>
+		<vlc:item tid="342"/>
+		<vlc:item tid="343"/>
+		<vlc:item tid="344"/>
+		<vlc:item tid="345"/>
+		<vlc:item tid="346"/>
+		<vlc:item tid="347"/>
+		<vlc:item tid="348"/>
+	</extension>
+</playlist>
